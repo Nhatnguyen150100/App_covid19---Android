@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">test1</string>
+    <string name="welcme_to_pc_cvid">Welcme to PC Cvid</string>
+    <string name="start">start</string>
+    <string name="khai_b_o_y_t_gi_m_thi_u_l_y_lan">Khai báo y tế giảm thiểu lây lan</string>
+    <string name="welcome_to_pc_covid">Welcome to PC COVID!</string>
+</resources>
